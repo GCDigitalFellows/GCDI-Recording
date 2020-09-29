@@ -1,7 +1,7 @@
-# Equipments for Audio Recording
+# Equipment for Audio Recording
 As you think about your recording project, you may be wondering if you would have to buy new equipments. Chances are, you already have the equipment that you need to get started! 
 
-## What Equipments Do I Need to Get Started?
+## What Equipment Do I Need to Get Started?
 The intention of the workshop is to work with what you have and work with resources readily available to you. You can get started on an audio recording with the following audio equipment:  
 
 - Smartphones/Laptops/Chromebooks/Tablets
@@ -15,7 +15,7 @@ When you use your headphone/earphone, make sure it does not have active noise ca
 
 Headphones/earphones with build-in microphones may not always be ideal as it is not as easy to isolate the microphone from interference or accidentally recording unwanted white noise. For example, you might accidentally brush against the microphone with your hands or your hair or your clothes, introducing noise into your recording.  
 
-## What Equipments are Nice to Have?
+## What Equipment is Nice to Have?
 If you have some budget for additional equipments, you can consider:
 
 - an external microphone 
