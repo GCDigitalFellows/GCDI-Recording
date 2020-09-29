@@ -1,7 +1,7 @@
 # Creative Commons Licensing
 If you're planning to use audio materials that are not of your own, you want to make sure that you have the appropriate rights to do so. For example, if you would like to add background music to your podcast episode, you want to make sure that you're allowed to use the music. In the infograph below, made by [WILEY](https://www.wiley.com/network/researchers/licensing-and-open-access/infographic-everything-you-need-to-know-about-creative-commons-licenses), it breaks down the different types of Creative Commons licenses available as alternatives to copyrights. 
 
-![Creative Commons Infograph](Images/CC.jpg)
+![Creative Commons Infograph](/Images/CC.jpg)
 
 There are many music that can be used under CC licensing. For example, you can check out [Free Music Archive](https://freemusicarchive.org/static). For how you might cite/use your CC music, check out [FMA's FAQ](https://freemusicarchive.org/FAQ_For_Educators). 
 
