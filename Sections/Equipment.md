@@ -16,7 +16,7 @@ When you use your headphone/earphone, make sure it does not have active noise ca
 Headphones/earphones with build-in microphones may not always be ideal as it is not as easy to isolate the microphone from interference or accidentally recording unwanted white noise. For example, you might accidentally brush against the microphone with your hands or your hair or your clothes, introducing noise into your recording.  
 
 ## What Equipment is Nice to Have?
-If you have some budget for additional equipments, you can consider:
+If you have some budget for additional equipment, you can consider:
 
 - an external microphone 
 - an external digital recorder, and/or
