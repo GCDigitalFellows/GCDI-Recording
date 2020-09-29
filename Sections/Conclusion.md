@@ -6,4 +6,4 @@ In preparation for our synchronous discussion, it would be useful if you could a
 
 For those who are attending our synchronous session, see you soon! If you're a The Graduate Center, CUNY affiliate and are not able to attend the session, please feel free to join our [sound studies working group](http://cuny.is/sound-studies) and/or contact us via our [consultation form](http://cuny.is/gcdi-consults).
 
-[<<< Previous](CC.md)|[Intro](../Intro.md)
+[<<< Previous](CC.md) | [<<Introduction>>](../Intro.md)

@@ -62,4 +62,4 @@ Mouth noises include sounds like lip smacking and slurping or when you're speaki
 
 In this section, we offer some things to look out for as you're preparing for your recording, if you would like to hear some examples and explore other tips, [NPR's Ear Training Guide](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/) can be a very helpful checklist.
 
-[<<< Previous](Equipment.md)|[Intro](../Intro.md)|[Next >>>](Home-Studio.md)
+[<<< Previous](Equipment.md) | [<<Introduction>>](../Intro.md) | [Next >>>](Home-Studio.md)

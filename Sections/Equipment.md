@@ -28,4 +28,4 @@ An external digital recorder, such as the [Tascam DR-05X](https://tascam.com/us/
 
 A pop filter is useful to help you reduce some of the plosives in our speech (e.g. when we pronounce words with "p" sounds). In a home-recording scenario, this can help with getting a cleaner sound. In the next section, we will discuss other ways to reduce plosives and good habits in recording.
 
-[<<< Previous](../Intro.md)|[Next >>>](Good-habits.md)
+[<<< Previous](../Intro.md) | [Next >>>](Good-habits.md)

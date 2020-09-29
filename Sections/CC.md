@@ -7,4 +7,4 @@ There are many music that can be used under CC licensing. For example, you can c
 
 If you're interested in using oral history interviews, you will have to check the licensing and distribution rights of the archives you're getting the interviews from. Not all archives allow you to use their interviews or they may have specific requirements for usage (e.g. no remixing/editing of clips). Make sure to check the appropriate rights before you include them in your own recording. This also upholds the rights of the narrators and respects their intentions in distribution. 
 
-[<<< Previous](Software-App.md)|[Intro](../Intro.md)|[Next >>>](CC.md)
+[<<< Previous](Software-App.md) | [<<Introduction>>](../Intro.md) | [Next >>>](CC.md)
