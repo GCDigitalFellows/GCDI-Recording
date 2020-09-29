@@ -24,6 +24,7 @@ To navigate through the workshop, you can click on the link at the bottom of eac
 - [Home Studio Set-up](Sections/Home-Studio.md)
 - [Software and applications](Sections/Software-App.md)
 - [Creative Commons](Sections/CC.md)
+- [Conclusion](Sections/Conclusion.md)
 
 
 ## Acknowledgments
