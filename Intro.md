@@ -22,7 +22,7 @@ To navigate through the workshop, you can click on the link at the bottom of eac
 - [Equipment](Sections/Equipment.md)
 - [Good Habits for Recording](Sections/Good-habits.md)
 - [Home Studio Set-up](Sections/Home-Studio.md)
-- [Softwares and applications](Sections/Software-App.md)
+- [Software and applications](Sections/Software-App.md)
 - [Creative Commons](Sections/CC.md)
 
 
