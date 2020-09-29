@@ -1,7 +1,7 @@
 # Good Habits to Develop for a Clean and Clear Recording
 A good, clean, and clear recording can save you a lot of trouble when you begin to edit your audio project. From paying attention to your microphone placement to reduce plosive to monitoring your recording levels, these tips and habits can help you with creating a recording that requires minimal edits.    
 
-## Understanding where Sound is Picking Up from  
+## Understanding from where the Sound is being Picked Up   
 As you set up your microphone, you should take note on how it is picking up sound. Depending on its polar pattern, where you point your microphone will impact your recording. Below are some common polar patterns you might encounter.    
 
 <table>
