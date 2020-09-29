@@ -17,7 +17,7 @@ In this workshop, participants will:
 - 1 - 2 hours.
 
 ## Sections
-To navigate through the workshop, you can click on the link at the bottom of each page that will bring you to either the `previous section`, `next section`, or back to this `introduction page`. If you like to go to a specific section of the workshop, you can choose to click on the links below instead. 
+To navigate through the workshop, you can click on the link at the bottom of each page that will bring you to either the `Previous` section, `Next` section, or back to this `Introduction` page. If you like to go to a specific section of the workshop, you can choose to click on the links below instead. 
 
 - [Equipment](Sections/Equipment.md)
 - [Good Habits for Recording](Sections/Good-habits.md)
