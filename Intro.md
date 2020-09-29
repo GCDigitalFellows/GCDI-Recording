@@ -29,5 +29,6 @@ To navigate through the workshop, you can click on the link at the bottom of eac
 
 ## Acknowledgments
 - Current author: Di Yoong
+- Reviewer: Param Ajmera
 
 [Next >>>](Sections/Equipment.md)
