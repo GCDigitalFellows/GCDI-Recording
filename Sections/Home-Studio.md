@@ -25,4 +25,4 @@ Below you will find some samples of audio recording using different microphones 
 The smartphone recording is recorded on the android [Voice Recorder](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en_US) app. For both the USB microphone and webcam microphone recording they are recorded in an empty Zoom session. We will discuss in the next sections considerations for different recording software and applications.  
 
 
-[<<< Previous](Sections/Good-habits.md)|[Intro](Intro.md)|[Next >>>](Sections/Software-App.md)
+[<<< Previous](Good-habits.md)|[Intro](../Intro.md)|[Next >>>](Software-App.md)
