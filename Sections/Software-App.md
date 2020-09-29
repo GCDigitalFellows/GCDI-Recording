@@ -18,4 +18,4 @@ Remember, you can always compress your recording when you're ready to share but 
 
 Generally, recording and editing in an uncompressed format at 16-bit (for voice) or 24-bit/32-bit (for music), and 44.1kHz (CD audio quality) is ideal (large file size). Depending on the purpose of your recording, you may then choose to export it in an compressed format, keeping the same bits and Hertz, for distribution (small file size). To learn more about the differences, you can refer to [iZotope's article](https://www.izotope.com/en/learn/whats-the-difference-between-file-formats.html). (You can scroll to the section that begins with "The Four Gold Standards")
 
-[<<< Previous](Home-Studio.md) | [<<Introduction>>](../Intro.md) | [Next >>>](CC.md)
+[<<< Previous](Home-Studio.md) | [<< Introduction >>](../Intro.md) | [Next >>>](CC.md)

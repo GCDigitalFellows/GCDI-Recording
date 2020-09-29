@@ -13,17 +13,17 @@ As you set up your microphone, you should take note on how it is picking up soun
     </tr>
     <tr>
         <td>Omnidirectional</td>
-        <td><a href="Images/600px-Polar_pattern_omnidirectional.png">Omnidirectional</a> (Omnidirectional)</td>
+        <td><a href="/Images/600px-Polar_pattern_omnidirectional.png">Omnidirectional</a> (Omnidirectional)</td>
         <td>Microphones with this pattern picks up sound from every direction. Notice that the bold lines encircles the entire recording area. Omnidirectional microphones can be really good for ambient recording where you may want to record sound from 360 degree but may introduce a lot of background noise in voice recording.</td>
     </tr>
     <tr>
         <td>Cardioid</td>
-        <td><a href="Images/Polar_pattern_cardioid.png">Cardioid</a> (Cardioid)</td>
+        <td><a href="/Images/Polar_pattern_cardioid.png">Cardioid</a> (Cardioid)</td>
         <td>Microphones with this pattern picks up sound in a single direction (forward-facing). Sound that falls outside of the bold lines is not going to be picked up in your recording. This can be useful for recording voice when you want to minimize picking up surrounding noise. This also means that if you fail to point the microphone in the direction of the sound you want to pick up, you will not be able to get a clean sound/sound is muffled.</td>
     </tr>
     <tr>
         <td>Bidirectional/Figure-Eight</td>
-        <td><a href="Images/600px-Polar_pattern_figure_eight.png">Figure-Eight</a> (Bidirectional/Figure-Eight)</td>
+        <td><a href="/Images/600px-Polar_pattern_figure_eight.png">Figure-Eight</a> (Bidirectional/Figure-Eight)</td>
         <td>Microphones with this pattern picks up sound in 2 direction or in a figure-eight shape. Sound that falls outside of the bold lines is not going to be picked up in your recording, making it useful for recording environment where the interviewer and narrator and seated opposite each other.</td>
     </tr>
 </table>
@@ -62,4 +62,4 @@ Mouth noises include sounds like lip smacking and slurping or when you're speaki
 
 In this section, we offer some things to look out for as you're preparing for your recording, if you would like to hear some examples and explore other tips, [NPR's Ear Training Guide](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/) can be a very helpful checklist.
 
-[<<< Previous](Equipment.md) | [<<Introduction>>](../Intro.md) | [Next >>>](Home-Studio.md)
+[<<< Previous](Equipment.md) | [<< Introduction >>](../Intro.md) | [Next >>>](Home-Studio.md)
