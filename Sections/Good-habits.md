@@ -13,17 +13,17 @@ As you set up your microphone, you should take note on how it is picking up soun
     </tr>
     <tr>
         <td>Omnidirectional</td>
-        <td><a href="/Images/600px-Polar_pattern_omnidirectional.png">Omnidirectional</a> (Omnidirectional)</td>
+        <td><a href="https://raw.githubusercontent.com/dyoong/Recording/master/Images/600px-Polar_pattern_omnidirectional.png?token=AF75KYGBYJRFG6EEYOIUV7S7PO3HE">Omnidirectional</a> (Omnidirectional)</td>
         <td>Microphones with this pattern picks up sound from every direction. Notice that the bold lines encircles the entire recording area. Omnidirectional microphones can be really good for ambient recording where you may want to record sound from 360 degree but may introduce a lot of background noise in voice recording.</td>
     </tr>
     <tr>
         <td>Cardioid</td>
-        <td><a href="/Images/Polar_pattern_cardioid.png">Cardioid</a> (Cardioid)</td>
+        <td><a href="https://raw.githubusercontent.com/dyoong/Recording/master/Images/Polar_pattern_cardioid.png?token=AF75KYAFR7IDQFMY3ADNV5C7PO3IU">Cardioid</a> (Cardioid)</td>
         <td>Microphones with this pattern picks up sound in a single direction (forward-facing). Sound that falls outside of the bold lines is not going to be picked up in your recording. This can be useful for recording voice when you want to minimize picking up surrounding noise. This also means that if you fail to point the microphone in the direction of the sound you want to pick up, you will not be able to get a clean sound/sound is muffled.</td>
     </tr>
     <tr>
         <td>Bidirectional/Figure-Eight</td>
-        <td><a href="/Images/600px-Polar_pattern_figure_eight.png">Figure-Eight</a> (Bidirectional/Figure-Eight)</td>
+        <td><a href="https://raw.githubusercontent.com/dyoong/Recording/master/Images/600px-Polar_pattern_figure_eight.png?token=AF75KYGYR6YJONPZ4B25Y327PO3EW">Figure-Eight</a> (Bidirectional/Figure-Eight)</td>
         <td>Microphones with this pattern picks up sound in 2 direction or in a figure-eight shape. Sound that falls outside of the bold lines is not going to be picked up in your recording, making it useful for recording environment where the interviewer and narrator and seated opposite each other.</td>
     </tr>
 </table>
@@ -35,7 +35,7 @@ For more information on polar pattern and directionality, you can also check out
 ## Check your Levels!
 As you are recording, you should also pay attention to your recording levels. A good rule-of-thumb is to record between -15db to -12db for speech recording.     
 
-![Gif of recording levels](Images/Target-neg-12-smaller.gif)(Credit: Rob Byers at NPR) 
+![Gif of recording levels](/Images/Target-neg-12-smaller.gif)(Credit: Rob Byers at NPR) 
 
 This will give you enough headroom for occasional spikes in volume, for example, clapping and laughing, without clipping your recording. Some recording devices/softwares/app also use color as another visual cue for monitoring; anything above -12db is usually yellow, and above -6db is in the red zone. As an indication, 0db on the monitoring level is the maximum limit of your recording device to pick up sound. Getting to 0db will result in clipping, which is when the audio signal is amplified past the maximum limit of your recording device. You will hear distortion and fuzziness in your recording as you put your recording device into overdrive.  
 
